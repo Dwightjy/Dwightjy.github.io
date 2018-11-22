@@ -1274,9 +1274,13 @@
         </slidelink>
         <slidelink slideid="_player.6NWMBNGIwtw" displaytext="X맨과 학생의 만남" expand="true" type="slide">
           <links>
+            <slidelink slideid="_player.6NWMBNGIwtw.5aTLi46WgGi" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6NWMBNGIwtw.5gEnHKYrAMo" displaytext="X맨과 학생의 만남" expand="false" type="slide" />
             <slidelink slideid="_player.6NWMBNGIwtw.5jhMcXfigxm" displaytext="학생 소개" expand="false" type="slide" />
+            <slidelink slideid="_player.6NWMBNGIwtw.6a6kk7lY4tT" displaytext="학생 소개" expand="false" type="slide" />
+            <slidelink slideid="_player.6NWMBNGIwtw.6OmbncfHCkY" displaytext="학생 소개" expand="false" type="slide" />
             <slidelink slideid="_player.6NWMBNGIwtw.5glIhT0ATCj" displaytext="X맨 소개" expand="false" type="slide" />
+            <slidelink slideid="_player.6NWMBNGIwtw.5WyUYKpRn3W" displaytext="X맨 소개" expand="false" type="slide" />
             <slidelink slideid="_player.6NWMBNGIwtw.6HubwFhD3XF" displaytext="학생과 X맨 대면" expand="false" type="slide" />
             <slidelink slideid="_player.6NWMBNGIwtw.6qOJhRsN3uP" displaytext="학생과 X맨 대면2" expand="false" type="slide" />
             <slidelink slideid="_player.6NWMBNGIwtw.65h8bohyuJW" displaytext="학생과 X맨 여행의 시작" expand="false" type="slide" />
@@ -1293,39 +1297,33 @@
             <slidelink slideid="_player.6NWMBNGIwtw.5X6rhvC1Rde" displaytext="하단 그림에서 컴퓨터 A와 B는 같은 네트워크에 속해 있나?" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6OMRWdbljof" displaytext="허브, 스위치, 인터넷, 라우터" expand="true" type="slide">
+        <slidelink slideid="_player.5oQ04jyHZlx" displaytext="허브, 스위치, 라우터" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6OMRWdbljof.663bOytvsRr" displaytext="허브, 스위치, 인터넷, 라우터" expand="false" type="slide" />
-            <slidelink slideid="_player.6OMRWdbljof.6QUGFhnk6a6" displaytext="학생과 X맨 대면" expand="false" type="slide" />
-            <slidelink slideid="_player.6OMRWdbljof.6gRWOIArK4D" displaytext="학생과 X맨 대면2" expand="false" type="slide" />
-            <slidelink slideid="_player.6OMRWdbljof.6EVegdqeAfb" displaytext="학생과 X맨 여행의 시작" expand="false" type="slide" />
-            <slidelink slideid="_player.6OMRWdbljof.5vtqFLNTYow" displaytext="학생과 X맨 여행의 시작 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6OMRWdbljof.5YB4yK7zK3G" displaytext="네트워크란? " expand="false" type="slide" />
-            <slidelink slideid="_player.6OMRWdbljof.625PqeY9fZl" displaytext="네트워크란? " expand="false" type="slide" />
-            <slidelink slideid="_player.6OMRWdbljof.696QgXf75ij" displaytext="네트워크란? " expand="false" type="slide" />
-            <slidelink slideid="_player.6OMRWdbljof.5r7aIrvd8jD" displaytext="네트워크란? " expand="false" type="slide" />
-            <slidelink slideid="_player.6OMRWdbljof.5qeDjhVcGFH" displaytext="[정리] 네트워크란? " expand="false" type="slide" />
-            <slidelink slideid="_player.6OMRWdbljof.5mvGCO7mFjl" displaytext="컴퓨터 네트워크란?" expand="false" type="slide" />
-            <slidelink slideid="_player.6OMRWdbljof.6I4hnUnWSRQ" displaytext="[정리] 컴퓨터 네트워크란? " expand="false" type="slide" />
-            <slidelink slideid="_player.6OMRWdbljof.5bulMGUrTKN" displaytext="Quiz로 실력 확인!" expand="false" type="slide" />
-            <slidelink slideid="_player.6OMRWdbljof.6VFMr2QqfKC" displaytext="다음 중 네트워크에 해당하는 것을 고르시오." expand="false" type="slide" />
-            <slidelink slideid="_player.6OMRWdbljof.6hYw599C94S" displaytext="하단 그림에서 컴퓨터 A와 B는 같은 네트워크에 속해 있나?" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5fH8mDxailf" displaytext="import" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5fH8mDxailf.5x7wa457xdD" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5fH8mDxailf.5mzHbp3bXed" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5oQ04jyHZlx" displaytext="2장 보강 - 허브 vs 스위치" expand="true" type="slide">
-          <links>
+            <slidelink slideid="_player.5oQ04jyHZlx.6dsdeHS7y4q" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5oQ04jyHZlx.5cfh8rDfM6O" displaytext="MAC주소 필터링 간단 실험" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.60fVMqJJpOp" displaytext="스토리라인-3_허브 스위치 인터넷 라우터" expand="true" type="slide">
+        <slidelink slideid="_player.6el4VcRDBEQ" displaytext="회선교환, 메시지 교환, 패킷 교환" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.60fVMqJJpOp.6q1mTx1qTxu" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6el4VcRDBEQ.6WPxdzcn7ci" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6h0vjMG3ntr" displaytext="패킷교환에서의 지연" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6h0vjMG3ntr.6T6dYMcJsWc" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6h0vjMG3ntr.6fkSufX9Kou" displaytext="X맨 - 개관" expand="false" type="slide" />
+            <slidelink slideid="_player.6h0vjMG3ntr.6oKAKZkcB0X" displaytext="X맨 - 개관" expand="false" type="slide" />
+            <slidelink slideid="_player.6h0vjMG3ntr.6YeAlUlSXHA" displaytext="지연 4가지" expand="false" type="slide" />
+            <slidelink slideid="_player.6h0vjMG3ntr.62WGiAkX0f9" displaytext="처리 지연" expand="false" type="slide" />
+            <slidelink slideid="_player.6h0vjMG3ntr.6XpKAkmyut2" displaytext="큐잉 지연" expand="false" type="slide" />
+            <slidelink slideid="_player.6h0vjMG3ntr.5aUbtlp39Ww" displaytext="전파 지연" expand="false" type="slide" />
+            <slidelink slideid="_player.6h0vjMG3ntr.652EnMsVHR3" displaytext="전파 지연" expand="false" type="slide" />
+            <slidelink slideid="_player.6h0vjMG3ntr.5tMYHfag12S" displaytext="[정리] 패킷 교환에서의 4대 지연 " expand="false" type="slide" />
+            <slidelink slideid="_player.6h0vjMG3ntr.6H5IR3RGtjF" displaytext="Quiz로 실력 확인!" expand="false" type="slide" />
+            <slidelink slideid="_player.6h0vjMG3ntr.6NEe3Ae28U4" displaytext="큐잉 지연이 지속될 경우 발생 가능한 상황으로 가장 적절한 것은?" expand="false" type="slide" />
+            <slidelink slideid="_player.6h0vjMG3ntr.5lCEZzxe8Ut" displaytext="패킷 교환에서의 지연에 관한 용어와 부합하는 설명을 연결하시오." expand="false" type="slide" />
+            <slidelink slideid="_player.6h0vjMG3ntr.5y4kRaJ1h1E" displaytext="전송 지연" expand="false" type="slide" />
+            <slidelink slideid="_player.6h0vjMG3ntr.5sTvKkcndkI" displaytext="전송 지연 실험" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
